@@ -116,11 +116,11 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 
 ### STATE VALUE FUNCTION OF MONTE CARLO METHOD:
 
-<img width="553" alt="image" src="https://github.com/Monisha-11/q-learning/assets/93427240/ceec204b-1d15-42de-b1ca-5bf82e5ba8d6">
+<img width="553" alt="image" src="![image](https://github.com/gpavithra673/q-learning/assets/93427264/0b14f436-296e-43d7-8409-83de919a0a1e)">
 
 ### STATE VALUE FUNCTION OF Q-LEARNING METHOD:
 
-<img width="551" alt="image" src="https://github.com/Monisha-11/q-learning/assets/93427240/c869ca08-07f2-44b9-b21d-93eb80674fa3">
+<img width="551" alt="image" src="![image](https://github.com/gpavithra673/q-learning/assets/93427264/a18a780b-305e-42e4-a009-1075a80d9907)">
 
 
 ## RESULT:
